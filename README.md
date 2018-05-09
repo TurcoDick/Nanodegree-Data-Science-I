@@ -1,4 +1,4 @@
-##Introdução
+## Introdução
 
 Este projeto foi o projeto final do Nanodegree da Udacity de fundamentos de data science I, onde o foco de aprendizado foi a linguagem Python,as bibliotecas Pandas, Numpy e métodos de limpeza e manipulação de dados, não foi a criação de gráficos por isso utilizei o básico para a criação dos mesmos.
 
